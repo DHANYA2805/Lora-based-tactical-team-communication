@@ -1,1 +1,0 @@
-# Lora-based-tactical-team-communication
